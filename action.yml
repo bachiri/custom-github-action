@@ -1,0 +1,5 @@
+name : "Custom Github Action"
+description: "This is a custom Github Action"
+runs: 
+  using: node12
+  main: index.js
